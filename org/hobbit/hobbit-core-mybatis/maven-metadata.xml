@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.hobbit</groupId>
+  <artifactId>hobbit-core-mybatis</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230510050852</lastUpdated>
+  </versioning>
+</metadata>
