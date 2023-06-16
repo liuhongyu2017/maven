@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>org.hobbit</groupId>
   <artifactId>hobbit-tools</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20230616.011154</timestamp>
-      <buildNumber>5</buildNumber>
+      <timestamp>20230616.011409</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20230616011154</lastUpdated>
+    <lastUpdated>20230616011409</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20230616.011154-5</value>
-        <updated>20230616011154</updated>
+        <value>1.1-20230616.011409-1</value>
+        <updated>20230616011409</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20230616.011154-5</value>
-        <updated>20230616011154</updated>
+        <value>1.1-20230616.011409-1</value>
+        <updated>20230616011409</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
